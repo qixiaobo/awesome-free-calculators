@@ -16,6 +16,7 @@ A curated list of free, no-signup online calculators and tools.
 - [EV Running Cost Calculator](https://evcost-15b.pages.dev) — EV vs petrol 5-year cost comparison
 
 ## Home & Lifestyle
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) — Free concrete calculators for slabs, footings, post holes, bag counts, ready-mix planning, and material cost estimates
 - [Internet Speed Calculator](https://internetspeed-80d.pages.dev) — What speed do you need?
 - [Heat Pump ROI Calculator](https://heatpumproi.pages.dev) — Is a heat pump worth it?
 - [Pet Cost Calculator](https://petcost.pages.dev) — True cost of owning a dog or cat
