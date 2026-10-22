@@ -16,6 +16,7 @@ A curated list of free, no-signup online calculators and tools.
 - [EV Running Cost Calculator](https://evcost-15b.pages.dev) — EV vs petrol 5-year cost comparison
 
 ## Home & Lifestyle
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) — Estimate US roof replacement cost ranges by roof size, material, location, and tear-off choice
 - [Internet Speed Calculator](https://internetspeed-80d.pages.dev) — What speed do you need?
 - [Heat Pump ROI Calculator](https://heatpumproi.pages.dev) — Is a heat pump worth it?
 - [Pet Cost Calculator](https://petcost.pages.dev) — True cost of owning a dog or cat
